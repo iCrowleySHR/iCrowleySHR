@@ -1,7 +1,8 @@
 ### Oii! Me chamo Gustavo Gualda! 
 <div align="center">
-  <img src="/assets/ola.png">
+  <img src="/assets/ola.png" style="border-radius:13px;">
 </div>
+
 #### :mortar_board: Estou fazendo o Ensino Médio com Habilitação Profissional de Técnico Em Informática para Internet pela ETEC
 
 
