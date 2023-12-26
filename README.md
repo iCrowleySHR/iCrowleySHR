@@ -4,8 +4,7 @@
 </div>
 
 #### :mortar_board: Estou fazendo o Ensino Médio com Habilitação Profissional de Técnico Em Informática para Internet pela ETEC
-
-
+#### :mortar_board: Desenvolvedor Full-Stack
 
 <div align="center" style="display: inline_block" >
 <a href="https://github.com/iCrowleySHR">
@@ -14,7 +13,7 @@
 
  #### Ferramentas e tecnologias
 
-<img src="https://skillicons.dev/icons?i=ae,ps,html,css,js,react,sass,mysql,php,java,androidstudio,vite,vscode"/>   
+<img src="https://skillicons.dev/icons?i=ae,ps,html,css,js,react,sass,mysql,php,java,androidstudio,vite,vscode,bootstrap"/>   
 
   
   #### Contato
