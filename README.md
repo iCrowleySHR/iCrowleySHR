@@ -6,9 +6,9 @@
 #### :mortar_board: Estou fazendo o Ensino Médio com Habilitação Profissional de Técnico Em Informática para Internet pela ETEC
 #### :mortar_board: Desenvolvedor Full-Stack
 
-<div align="center" style="display: inline_block" >
-<a href="https://github.com/iCrowleySHR">
-<img height="150em" width="100%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=iCrowleySHR&layout=compact&langs_count=20&theme=cobalt"/>
+<div>
+  <img height=190em  src="https://github-readme-stats.vercel.app/api?username=iCrowleySHR&show_icons=true" />
+  <img height=190em src="https://github-readme-stats.vercel.app/api/top-langs/?username=iCrowleySHR&layout=donut" />
 </div>
 
  #### Ferramentas e tecnologias
