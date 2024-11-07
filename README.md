@@ -13,7 +13,7 @@
 
  #### Ferramentas e tecnologias
 
-<img src="https://skillicons.dev/icons?i=ae,ps,html,css,js,react,sass,mysql,php,java,androidstudio,vite,vscode,bootstrap,laravel"/>   
+<img src="https://skillicons.dev/icons?i=ae,ps,html,css,js,react,sass,mysql,php,java,androidstudio,vite,vscode,bootstrap,laravel,git,typescript"/>   
 
   
   #### Contato
