@@ -3,8 +3,8 @@
   <img src="/assets/ola.png" style="border-radius:13px;">
 </div>
 
-#### :mortar_board: Estou fazendo o Ensino Médio com Habilitação Profissional de Técnico Em Informática para Internet pela ETEC
-#### :mortar_board: Desenvolvedor Full-Stack
+#### :mortar_board: Estou cursando Tecnólogo em Desenvolvimento de Software Multiplataforma pela FATEC.
+#### :mortar_board: Desenvolvedor Full-Stack.
 
 <div>
   <img height=190em  src="https://github-readme-stats.vercel.app/api?username=iCrowleySHR&show_icons=true" />
