@@ -4,6 +4,7 @@
 </div>
 
 #### :mortar_board: Estou cursando Tecnólogo em Desenvolvimento de Software Multiplataforma pela FATEC.
+#### :mortar_board: Técnico em Informática para Internet.
 #### :mortar_board: Desenvolvedor Full-Stack.
 
 <div>
