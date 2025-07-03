@@ -1,8 +1,3 @@
-### Oii! Me chamo Gustavo Gualda! 
-<div align="center">
-  <img src="/assets/ola.png" style="border-radius:13px;">
-</div>
-
 #### :mortar_board: Estou cursando Tecnólogo em Desenvolvimento de Software Multiplataforma pela FATEC.
 #### :mortar_board: Técnico em Informática para Internet.
 #### :mortar_board: Desenvolvedor Full-Stack.
@@ -14,7 +9,7 @@
 
  #### Ferramentas e tecnologias
 
-<img src="https://skillicons.dev/icons?i=ae,ps,html,css,js,react,sass,mysql,php,java,androidstudio,vite,vscode,bootstrap,laravel,git,typescript,styledcomponents"/>   
+<img src="https://skillicons.dev/icons?i=ae,ps,html,css,js,react,sass,mysql,php,java,androidstudio,vite,vscode,bootstrap,laravel,git,typescript,styledcomponents,cs,vue,python"/>   
 
   
   #### Contato
