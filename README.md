@@ -1,6 +1,7 @@
 #### :mortar_board: Estou cursando Tecnólogo em Desenvolvimento de Software Multiplataforma pela FATEC.
 #### :mortar_board: Técnico em Informática para Internet.
 #### :mortar_board: Desenvolvedor Full-Stack.
+#### :mortar_board: Estágio em DevSecOps e Cloud.
 
 <div>
   <img height=190em  src="https://github-readme-stats.vercel.app/api?username=iCrowleySHR&show_icons=true" />
