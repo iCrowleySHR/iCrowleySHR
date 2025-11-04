@@ -13,18 +13,18 @@
 <img src="https://skillicons.dev/icons?i=ae,ps,html,css,js,react,sass,mysql,php,java,androidstudio,vite,vscode,bootstrap,laravel,git,typescript,styledcomponents,cs,vue,python,aws,docker,nodejs,linux,visualstudio,k8s"/>   
 
   
-  #### Contato
+  #### Contatos
 <div>
   <a href="https://instagram.com/gustavogualda10" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=instagram">
   </a>
 
   <a href="https://www.linkedin.com/in/gustavo-gualda-95a8112a2/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
 
   <a href="mailto:gustavogualda6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+     <img src="https://skillicons.dev/icons?i=gmail">
   </a>
 </div>
 
