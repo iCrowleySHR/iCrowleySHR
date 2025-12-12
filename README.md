@@ -25,7 +25,7 @@ Busco evoluir constantemente como profissional, contribuindo para projetos inova
 ---
 
 ### 🧰 Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nodejs,php,laravel,java,python,mysql,aws,docker,k8s,linux,git,bootstrap,sass,vite,vue,cs,androidstudio,visualstudio,vscode,ps,ae" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nodejs,php,laravel,java,python,mysql,aws,docker,k8s,linux,git,bootstrap,sass,vite,vue,cs,androidstudio,visualstudio,vscode,ps,ae,mongodb" />
 
 ---
 
